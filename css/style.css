@@ -1,0 +1,57 @@
+body {
+  background-color: #ffffff;
+  font-family: "Heebo", sans-serif;
+  color: #00214d;
+}
+
+.custom-navbar {
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 48px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: 400;
+  font-size: 16px;
+  color: #1b2d45;
+}
+
+.btn-custom {
+  background-color: #00ebc7;
+  border-radius: 0px;
+  padding: 16px 32px;
+}
+
+.custom-header {
+  padding: 255px 310px 55px 310px;
+  text-align: center;
+  background-image: url(/images/background.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin-top: -115px;
+}
+
+.custom-header h1 {
+  font-weight: bold;
+  font-size: 47px;
+  margin-bottom: 32px;
+  letter-spacing: 1.47px;
+}
+
+.custom-header p {
+  font-weight: 400;
+  font-size: 19px;
+  color: #5f6c7d;
+  margin-bottom: 55px;
+  line-height: 30px;
+  letter-spacing: 0.6px;
+}
+
+.custom-header .btn-join {
+  padding: 20px 43px;
+  background-color: #00ebc7;
+  font-weight: 500;
+  font-size: 18px;
+}
+/*# sourceMappingURL=style.css.map */
